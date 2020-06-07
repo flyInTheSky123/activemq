@@ -1,0 +1,1 @@
+spring目录下的是 spring整合JMS(Java message  service)后的版本。其它目录是没有进行过spring整合的版本（比如：queue，topic）
